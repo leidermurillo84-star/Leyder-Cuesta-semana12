@@ -1,0 +1,8 @@
+1. Evento que activa la automatización:
+Una causa activa en la plataforma alcanza el objetivo mínimo de apoyos requeridos (por ejemplo, llega a los 100 apoyos registrados).
+
+2. Mensaje que se envía por Telegram:
+"¡Meta cumplida! Una propuesta comunitaria ha reunido todos los apoyos necesarios. El documento PDF con la petición formal ha sido generado automáticamente y está listo para ser presentado ante las autoridades correspondientes. ¡Gracias a todos por participar!"
+
+3. Información que NO debe enviarse por seguridad:
+Por motivos de privacidad y seguridad, no se debe incluir el listado con los nombres completos, correos electrónicos, documentos de identidad (cédulas) ni números telefónicos de las personas que firmaron la petición. La alerta debe ser estrictamente general para proteger los datos personales de la comunidad.

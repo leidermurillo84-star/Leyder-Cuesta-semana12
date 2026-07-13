@@ -1,0 +1,6 @@
+Un ciudadano completa un formulario rápido en la plataforma web para proponer una iniciativa. (En lugar de solo decir que la crea, explicamos cómo inicia el proceso en la interfaz).
+​La plataforma almacena la propuesta de forma segura respetando la privacidad de los datos. (Hacemos énfasis en el almacenamiento seguro y el principio de minimización de datos).
+​La iniciativa se publica en la página web para que la comunidad pueda conocerla y firmarla. (Explicamos la fase intermedia de visibilidad pública antes de recibir los apoyos).
+​El sistema registra las firmas digitales y actualiza el contador de apoyos en tiempo real. (Detallamos la acción técnica de contabilizar de manera dinámica).
+​Al alcanzar la meta de firmas, la plataforma genera automáticamente un documento formal en formato PDF. (Añadimos la condición de "alcanzar la meta" para justificar la acción de salida).
+​Se envía una notificación de éxito con el resumen del documento a través de un canal de Telegram. 
